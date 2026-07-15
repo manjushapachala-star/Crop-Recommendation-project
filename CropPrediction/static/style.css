@@ -6,7 +6,7 @@ body {
 
 /* Background Image */
 .home-bg {
-    background-image: url('home image.jpg'); /* nee image peru */
+    background-image: url('home image.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
