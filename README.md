@@ -2,7 +2,7 @@ Applink - https://crop-recommendation-project-2-tzsl.onrender.com/
 
 ## Crop Recommendation Project
 
-Demolink - https://github.com/manjushapachala-star/Crop-Recommendation-project/blob/main/Demolink/Demolink.mp4
+Demolink - https://drive.google.com/file/d/11l9DgqH--PjmrSdw3nExhnQRiGUW0mrK/view?usp=sharing
 
 ### Description-
 This project recommends the best crop to grow based on soil and weather conditions using Machine Learning.
