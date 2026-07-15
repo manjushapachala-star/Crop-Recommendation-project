@@ -1,21 +1,25 @@
-Crop Recommendation Project
+Applink - https://crop-recommendation-project-2-tzsl.onrender.com/
 
-Description-
+## Crop Recommendation Project
+
+Demolink - https://github.com/manjushapachala-star/Crop-Recommendation-project/blob/main/Demolink.mp4
+
+### Description-
 This project recommends the best crop to grow based on soil and weather conditions using Machine Learning.
 
-Features:
+### Features:
 - Crop prediction using ML
 - User-friendly web application
 - Fast and accurate recommendations
 
-Technologies Used:
+### Technologies Used:
 - Python
 - Flask
 - HTML
 - CSS
 - Scikit-learn
 
-Project Structure:
+### Project Structure:
 - CropPrediction/
 - Demolink/
 - code.ipynb
